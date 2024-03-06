@@ -1,0 +1,103 @@
+button{
+	margin-left: 150px;
+	width: 700px;
+	height: 300px;
+	font-size: 40px;
+}
+button#buttonCheckA{
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	font-size: 40px;
+}
+button#buttonCheckB{
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	font-size: 40px;
+}
+button#buttonCheckC{
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	font-size: 40px;
+}
+button#buttonCheckD{
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	font-size: 40px;
+}
+button#buttonSetA{
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	font-size: 40px;
+}
+button#buttonSetB{
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	font-size: 40px;
+}
+button#buttonSetC{
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	font-size: 40px;
+}
+button#buttonSetD{
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	font-size: 40px;
+}
+input{
+	margin-left: 80px;
+	width: 800px;
+	height: 50px;
+	font-size: 40px;
+}
+p{
+	font-size: 40px;
+	background-color:#DDEBF7;
+	/*color:#44AA44;*/
+}
+p#count{
+	color: lightblue;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color:#ffffff;
+}
+p#title{
+	color: hotpink;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color:#ffffff;
+}
+p#choiceA{
+	color: green;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+p#choiceB{
+	color: green;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+p#choiceC{
+	color: green;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+p#choiceD{
+	color: green;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+p2{
+	color:royalblue;
+}
+p3{
+	color:green;
+}

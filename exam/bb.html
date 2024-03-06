@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>业余无线电 等级BB</title>
+		<link rel="stylesheet" href="../css/exam.css">
+	</head>
+	<body>
+		<p id="count">第  0  题</p>
+		<hr>
+		<p id="title" >标题</p>
+		<hr>
+		<p id="choiceA" >选项A</p>
+		<p id="choiceB" >选项B</p>
+		<p id="choiceC" >选项C</p>
+		<p id="choiceD" >选项D</p>
+		<hr>
+		<button id="buttonCheckA" name="A" class="myButton" onclick="checkFunctionA()">A</button>
+		<button id="buttonCheckB" name="B" class="myButton" onclick="checkFunctionB()">B</button>
+		<button id="buttonCheckC" name="C" class="myButton" onclick="checkFunctionC()">C</button>
+		<button id="buttonCheckD" name="D" class="myButton" onclick="checkFunctionD()">D</button>
+		<hr>
+		<br/>
+		<button type="button" onclick="yuezhuxueFunction()">下一题</button>
+		<br/>
+		<br/>
+		<hr>
+		<br/>
+		<button type="button" onclick="answerFunction()">查看答案</button>
+		<br/><hr>
+		<img id="showPIC" src="" >
+		<br/><hr>
+		<br/><hr>
+		<br/><hr>
+		<br/><hr>
+		<br/><hr>
+		<input type="text" id="importText" name="superText">
+		<hr>
+		<button id="buttonSetA" onclick="initCookie()">初始化</button>
+		<button id="buttonSetB" onclick="findCookie()">查询</button>
+		<button id="buttonSetC" onclick="exportCookie()">导出</button>
+		<button id="buttonSetD" onclick="importCookie()">导入</button>
+		<hr>
+		<script src="../js/main.js"></script>
+		<script src="../js/bb.js"></script>
+	</body>
+</html>
