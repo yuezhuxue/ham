@@ -46,5 +46,5 @@ function getRealCount(strCheck){
 	}
 }
 function getImagePath(){
-	return "https://yuezhuxue.github.io/ham/images/pic/";
+	return "https://yuezhuxue.github.io/ham/image/pic/";
 }
