@@ -1,5 +1,5 @@
 # HAM exam practice
-# [https://yuezhuxue.gitee.io/ham/](https://yuezhuxue.gitee.io/ham/)
+# [https://yuezhuxue.github.io/ham/](https://yuezhuxue.github.io/ham/)
 
 ## 使用方法
 1. 首次进入练习页面需点击**初始化**
